@@ -1,0 +1,11 @@
+.view {
+    border: 1px solid #ccc;
+}
+.view > div {
+        width: 100%;
+}
+
+.panel {
+    border: 1px solid #ccc;
+    border-left: none;
+}
